@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="100px" viewBox="0 0 300 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(0.000000, -9.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FAB2BA" x="0" y="9" width="300" height="100"></rect>
+            <polygon id="Path-2-Copy-3" fill="#AEAEAE" points="60 109 60 18 144 37 144 109"></polygon>
+            <polygon id="Path-2-Copy-2" fill="#414141" points="60 64 60 33 144 52 144 83"></polygon>
+            <polygon id="Path-2" fill="#AEAEAE" points="60 109 60 64 144 83 144 109"></polygon>
+            <polygon id="Path-3-Copy-2" fill="#989898" points="221 109 221 18 144 37 144 109"></polygon>
+            <polygon id="Path-3" fill="#000000" points="221 64 221 33 144 52 144 83"></polygon>
+            <polygon id="Path-3-Copy" fill="#989898" points="221 109 221 64 144 83 144 109"></polygon>
+            <polygon id="Path-4" fill="#D8D8D8" points="60 18 144 0 221 18 144 37"></polygon>
+        </g>
+    </g>
+</svg>

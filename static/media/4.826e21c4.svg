@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="100px" viewBox="0 0 300 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="9" y="14" width="300" height="100"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4" transform="translate(-9.000000, -14.000000)">
+            <g id="Rectangle-2">
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="9.5" y="14.5" width="299" height="99"></rect>
+            </g>
+            <polygon id="Rectangle" fill="#FAB2BA" fill-rule="nonzero" points="0 0 318 0 318 125 0 125"></polygon>
+            <g id="Group-2" transform="translate(177.000000, 23.000000)">
+                <circle id="Oval" stroke="#979797" stroke-width="2" fill="#B5B5B5" fill-rule="nonzero" cx="52.5" cy="52.5" r="52.5"></circle>
+                <path d="M29.1462369,98.7313433 C36.0174946,87.4789543 39.4531234,81.85276 39.4531234,81.85276 C39.4531234,81.85276 35.8821897,74.8226584 37.6494184,71.288201 C31.2076142,67.9384628 33.0113192,69.484496 29.6615813,66.6501021 C26.5695153,66.1347578 23.4774493,66.1347578 26.5695153,59.6929535 L25.5388265,58.6622648 L26.5695153,57.3739041 L26.0541709,55.8278709 C28.6308926,53.4229309 27.9437666,52.2204609 23.9927934,52.2204609 C18.0663339,52.2204609 29.1462369,42.9442628 29.6615813,39.8521968 C29.3180182,38.3061636 29.1462369,37.5331474 29.1462369,37.5331474 C35.330369,24.1341945 42.8887523,17.6923904 51.8213875,18.2077347 C65.2203403,18.9807512 78.1039485,32.3797038 74.2388659,46.0363288 C76.9873691,48.2694876 78.0180579,51.7051165 77.3309319,56.3432153 C76.3002434,63.3003639 69.8584392,61.7543308 69.8584392,61.7543308 C69.5148764,65.705304 69.3430948,67.6807906 69.3430948,67.6807906 C68.8277504,69.7421682 68.4841876,72.0612176 68.312406,74.6379392 C68.0547342,78.5030218 67.507214,83.1712228 72.4029851,83.6865672 C80.5984115,90.6243519 83.8372174,95.6392773 82.119403,98.7313433 C79.5426814,103.369442 53.8827647,103.754894 58.2631917,101.951189 C61.1834762,100.748719 54.9134535,100.233375 39.4531234,100.405156 L29.1462369,98.7313433 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval-Copy" stroke="#737373" stroke-width="2" cx="52.8134328" cy="52.5" r="47.1716418"></circle>
+            </g>
+            <g id="Rectangle-2" transform="translate(40.000000, 31.000000)" fill="#B5B5B5">
+                <g id="path-1-link">
+                    <rect id="path-1" x="0" y="0" width="118" height="94"></rect>
+                </g>
+            </g>
+            <g id="Group" transform="translate(54.000000, 38.000000)" fill="#4E4E4E" fill-rule="nonzero">
+                <rect id="Path-Copy-6" x="44.7451613" y="70.6795367" width="30.6645161" height="10.3204633"></rect>
+                <rect id="Path" x="86.6741935" y="0" width="10.3258065" height="81"></rect>
+                <rect id="Path-Copy-5" x="66.3354839" y="0" width="30.6645161" height="10.3204633"></rect>
+                <rect id="Path-Copy-6" x="44.7451613" y="70.6795367" width="30.6645161" height="10.3204633"></rect>
+                <rect id="Path-Copy-7" x="29.4129032" y="0" width="30.6645161" height="10.3204633"></rect>
+                <rect id="Path-Copy-9" x="1.56451613" y="63.1737452" width="30.6645161" height="17.8262548"></rect>
+                <rect id="Path-Copy" x="66.3354839" y="0.312741313" width="10.3258065" height="80.6872587"></rect>
+                <rect id="Path-Copy-2" x="44.7451613" y="0" width="16.8967742" height="81"></rect>
+                <rect id="Path-Copy-3" x="21.5903226" y="0" width="16.8967742" height="81"></rect>
+                <rect id="Path-Copy-8" x="21.5903226" y="0" width="16.8967742" height="81"></rect>
+                <rect id="Path-Copy-4" x="0" y="37.8416988" width="16.8967742" height="43.1583012"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

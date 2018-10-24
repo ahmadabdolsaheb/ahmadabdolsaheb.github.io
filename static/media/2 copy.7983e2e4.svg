@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="100px" viewBox="0 0 300 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="100"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rectangle-2">
+            <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="299" height="99"></rect>
+        </g>
+        <g id="3">
+            <rect id="Rectangle" fill="#FAB2BA" fill-rule="nonzero" x="0" y="0" width="300" height="100"></rect>
+            <circle id="Oval" stroke="#979797" stroke-width="2" fill="#B5B5B5" fill-rule="nonzero" cx="222" cy="62" r="53"></circle>
+            <path d="M198.97111,109.718075 C205.92073,98.3028295 209.39554,92.595207 209.39554,92.595207 C209.39554,92.595207 205.783882,85.4633584 207.571265,81.8777467 C201.055996,78.4795276 202.880271,80.0479366 199.492332,77.1725204 C196.365003,76.6497174 193.237674,76.6497174 196.365003,70.1146807 L195.32256,69.0690747 L196.365003,67.7620676 L195.843781,66.1936586 C198.449889,63.7539118 197.754926,62.5340383 193.758895,62.5340383 C187.764848,62.5340383 198.97111,53.1235855 199.492332,49.9867679 C199.14485,48.4183589 198.97111,47.6341547 198.97111,47.6341547 C205.225768,34.0412783 212.87035,27.5062417 221.904856,28.0290446 C235.456615,28.813249 248.487153,42.4061252 244.577992,56.2604031 C247.35784,58.5258825 248.400283,62.0112353 247.705321,66.7164616 C246.662878,73.7743013 240.147609,72.2058924 240.147609,72.2058924 C239.800128,76.2140482 239.626387,78.2181261 239.626387,78.2181261 C239.105166,80.309338 238.757685,82.6619512 238.583944,85.2759658 C238.323334,89.1969879 237.769569,93.9327519 242.721174,94.4555549 C251.010064,101.49375 254.285806,106.581257 252.548401,109.718075 C249.942294,114.423301 223.989742,114.814331 228.420125,112.984521 C231.373713,111.764648 225.032185,111.241845 209.39554,111.416112 L198.97111,109.718075 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <circle id="Oval-Copy" stroke="#737373" stroke-width="2" cx="222.5" cy="61.5" r="47.5"></circle>
+            <g id="Rectangle-2" transform="translate(31.000000, 17.000000)">
+                <g id="path-1-link" fill="#B5B5B5">
+                    <rect id="path-1" x="0" y="0" width="119" height="95"></rect>
+                </g>
+                <rect id="Rectangle-path" x="0.158244681" y="0.157807309" width="118.683511" height="94.6843854"></rect>
+            </g>
+            <g id="Rectangle-3" transform="translate(69.000000, 44.000000)">
+                <g id="path-2-link" fill="#737373">
+                    <rect id="path-2" x="0" y="0" width="42" height="42"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#979797" x="0.156716418" y="0.156716418" width="41.6865672" height="41.6865672"></rect>
+            </g>
+            <g id="Rectangle-4" transform="translate(69.000000, 22.000000)">
+                <g id="path-3-link" fill="#737373">
+                    <rect id="path-3" x="0" y="0" width="55" height="16"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#979797" x="0.158045977" y="0.16" width="54.683908" height="15.68"></rect>
+            </g>
+            <g id="Rectangle-4-Copy" transform="translate(56.000000, 92.000000)">
+                <g id="path-4-link" fill="#737373">
+                    <rect id="path-4" x="0" y="0" width="55" height="16"></rect>
+                </g>
+                <rect id="Rectangle-path" stroke="#979797" x="0.158045977" y="0.16" width="54.683908" height="15.68"></rect>
+            </g>
+            <ellipse id="Oval-2" fill="#000000" fill-rule="nonzero" cx="78.5" cy="53" rx="5.5" ry="5"></ellipse>
+            <ellipse id="Oval-2-Copy-2" fill="#000000" fill-rule="nonzero" cx="102.5" cy="77" rx="5.5" ry="5"></ellipse>
+            <ellipse id="Oval-2-Copy" fill="#000000" fill-rule="nonzero" cx="115.5" cy="30" rx="5.5" ry="5"></ellipse>
+        </g>
+    </g>
+</svg>
