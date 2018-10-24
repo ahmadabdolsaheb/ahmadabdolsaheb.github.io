@@ -39,14 +39,14 @@ class App extends Component {
             <img className="headshot" src={require('./assets/headshot.PNG')} />
             <div className="headshot-text">
               <h1 className="card-title">
-                TUBA YILMAZ
+                Hi I am Ahmad
               </h1>
               <p className="card-text">
-                Dr. Tuba Yilmaz Abdolsaheb is an Assistant Professor and a Marie Sklodowska Curie Research Fellow in Department of Electronics and Communication Engineering at Istanbul Technical University (ITU).
+                I am a senior market analyst turned fullstack Javascript developer. I love building react and react native applications people cannot live without.
               </p>
               <div className="buttons-image">
                 <a href="CV.pdf" className="btn btn-primary border" target="_blank" download="CV">CV</a>
-                <a href="mailto:yilmazabdolsahe@itu.edu.tr" className="btn btn-primary border">Email</a>
+                <a href="mailto:ahmad.abdolsaheb@gmail.com" className="btn btn-primary border">Email</a>
               </div>
             </div>
           </div>
