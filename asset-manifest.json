@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.26d9b1a1.css",
-  "main.css.map": "static/css/main.26d9b1a1.css.map",
-  "main.js": "static/js/main.b4d8621b.js",
-  "main.js.map": "static/js/main.b4d8621b.js.map",
+  "main.css": "static/css/main.f7cb095c.css",
+  "main.css.map": "static/css/main.f7cb095c.css.map",
+  "main.js": "static/js/main.c1dae0af.js",
+  "main.js.map": "static/js/main.c1dae0af.js.map",
   "static/media/1 copy.svg": "static/media/1 copy.ea3f60bc.svg",
   "static/media/1.svg": "static/media/1.ea3f60bc.svg",
   "static/media/2 copy.svg": "static/media/2 copy.7983e2e4.svg",
@@ -13,6 +13,7 @@
   "static/media/4.svg": "static/media/4.826e21c4.svg",
   "static/media/CV.pdf": "static/media/CV.2c6c0b0b.pdf",
   "static/media/headshot-orig.PNG": "static/media/headshot-orig.c1168f5c.PNG",
-  "static/media/headshot.PNG": "static/media/headshot.dd166e1a.PNG",
+  "static/media/headshot.PNG": "static/media/headshot.41c3da01.PNG",
+  "static/media/headshot.xcf": "static/media/headshot.7594072e.xcf",
   "static/media/logos.svg": "static/media/logos.7c22c397.svg"
 }
