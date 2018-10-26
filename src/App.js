@@ -42,10 +42,10 @@ class App extends Component {
                 Hi I am Ahmad
               </h1>
               <p className="card-text">
-                I am a senior market analyst turned fullstack Javascript developer. I love building react and react native applications people cannot live without.
+                I am a senior market analyst turned fullstack Javascript developer. I love building react and react native applications that improve people's lives.
               </p>
               <div className="buttons-image">
-                <a href="CV.pdf" className="btn btn-primary border" target="_blank" download="CV">CV</a>
+                <a href="CV.pdf" className="btn btn-primary border" target="_blank" download="CV">Resume</a>
                 <a href="mailto:ahmad.abdolsaheb@gmail.com" className="btn btn-primary border">Email</a>
               </div>
             </div>
@@ -53,13 +53,11 @@ class App extends Component {
         </div>
         <div className="container">
           <div className="row align-items-center justify-content-md-center">
-            <div className="buttons col col-md-7">
+            <div className="buttons col col-md-4 col-sm-12 .col-12">
               <a onClick={this.showAll} className="btn btn-primary border all">all</a>
               <a onClick={() => this.showCards("projects")} className="btn btn-primary border projects">projects</a>
-              <a onClick={() => this.showCards("research")} className="btn btn-primary border research">research</a>
-              <a onClick={() => this.showCards("publications")} className="btn btn-primary border publications">publications</a>
-              <a onClick={() => this.showCards("awards")} className="btn btn-primary border awards">awards</a>
-              <a onClick={() => this.showCards("media")} className="btn btn-primary border media">media</a>
+              <a onClick={() => this.showCards("articles")} className="btn btn-primary border articles">articles</a>
+              <a onClick={() => this.showCards("pens")} className="btn btn-primary border pens">pens</a>
             </div>
           </div>
         </div>
@@ -81,6 +79,11 @@ class App extends Component {
                 {card.link
                   ? <a href={card.link} className="btn btn-primary border">{card.linkContent
                         ? card.linkContent
+                        : "link"}</a>
+                  : ''}
+                {card.link2
+                  ? <a href={card.link2} className="btn btn-primary border link2">{card.linkContent
+                        ? card.linkContent2
                         : "link"}</a>
                   : ''}
                 {card.modal

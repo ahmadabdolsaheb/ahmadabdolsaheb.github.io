@@ -113,22 +113,28 @@ h1.card-title{
   margin: 0;
 }
 
+.link2{
+  margin-left: 10px !important;
+}
+
+
+
 span.projects{
   background-color:#f8b195;
 }
 a.projects{
   border-color:#f8b195 !important;
 }
-span.research{
+span.articles{
   background:#F67280;
 }
-a.research{
+a.articles{
   border-color:#F67280 !important;
 }
-span.publications{
+span.pens{
   background:#C06084;
 }
-a.publications{
+a.pens{
   border-color:#C06084 !important;
 }
 span.awards{

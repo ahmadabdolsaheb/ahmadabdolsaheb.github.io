@@ -1,124 +1,92 @@
 export default [
   {
     "type":"projects",
-    "title":"H2020 - MARIE SKLODOWSKA CURIE INDIVIDUAL FELLOWSHIP - RI Grant",
-    "content": "Principal Investigator, microwave Diagnosis Of Breast Cancer With Open Ended Contact Probe - MIDxPRO, Budget: 157,845 EUR, 2017-2019.",
-    "modal": "info"
+    "title":"PLANT IMAGE CLASSIFIER",
+    "content": "Python command line image classifier allowing users to choose and train neural networks to classify plant images.",
+    "link":"https://github.com/ahmadabdolsaheb/ImageClassifier/tree/master",
+    "linkContent": "code",
   },
   {
     "type":"projects",
-    "title":"TUBITAK 1003",
-    "content": "Researcher, Meme Kanserinin Tanısı Için Magnetik-nanoparçacık Temelli Mikrodalga Görüntüleme Teknolojisinin Geliştirilmesi,  Budget: 1,500,000 TL, 2017-2019."
+    "title":"CSS GRID SECTION FREECODECAMP ",
+    "content": "Co-wrote, designed, and wrote tests for the entirity of the CSS Grid section of the Responsive Web Design Certificate",
+    "link":"https://learn.freecodecamp.org/responsive-web-design/css-grid",
+    "linkContent": "live",
+    "link2":"https://github.com/freeCodeCamp/freeCodeCamp/tree/master/curriculum/challenges/english/01-responsive-web-design/css-grid",
+    "linkContent2": "code"
   },
   {
     "type":"projects",
-    "title":"ISTANBUL DEVELOPMENT AGENCY",
-    "content": "Researcher, Ambulanslar Için Beyin Kanaması Erken Teşhis Ve Tespit Sistemi:kask, Budget: 875,312 TL, 2016 - 2017"
+    "title":"CSS SECTION FREECODECAMP",
+    "content": "Co-wrote, designed, and wrote tests for the CSS variables for the CSS section of the Responsive Web Design Certificate",
+    "link":"https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once",
+    "linkContent": "live",
+    "link2":"https://github.com/freeCodeCamp/freeCodeCamp/tree/master/curriculum/challenges/english/01-responsive-web-design/basic-css",
+    "linkContent2": "code"
   },
   {
-    "type":"research",
-    "title":"Dielectric Spectroscopy",
-    "content": "",
-    "image":"1.svg"
+    "type":"projects",
+    "title":"PINTER",
+    "content": "Pinterest like social photo-sharing and photo collecting web app where users can track the popularity of their photos built with the MERN stack.",
+    "link":"https://pinter.herokuapp.com/",
+    "linkContent": "live",
+    "link2":"https://github.com/ahmadabdolsaheb/FCC-Pinterest",
+    "linkContent2": "code"
   },
   {
-    "type":"research",
-    "title":"Design and Testing of Microwave Wearable Sensors",
-    "content": "",
-    "image":"2.svg"
+    "type":"projects",
+    "title":"NORMAN FINKELSTEIN",
+    "content": "Customized bootstrap theme with WordPress backend for website of activist Norman Finkelstein.",
+    "link":"http://normanfinkelstein.com/",
+    "linkContent": "live",
+    "link2":"https://github.com/ahmadabdolsaheb/bootstrap-wordpress-theme/tree/master",
+    "linkContent2": "code"
+  },
+  ,
+  {
+    "type":"projects",
+    "title":"APPLIED VISUAL DESIGN FREECODECAMP",
+    "content": "Designed and developed the challenges for CSS animations, and a variety of CSS properties for the Applied Visual Design section of the Responsive Web Design certificate",
+    "link":"https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count",
+    "linkContent": "live",
+    "link2":"https://github.com/freeCodeCamp/freeCodeCamp/tree/master/curriculum/challenges/english/01-responsive-web-design/applied-visual-design",
+    "linkContent2": "code"
   },
   {
-    "type":"research",
-    "title":"Phantom Characterization for bio-electromagnetics applications",
-    "content": "",
-    "image":"3.svg"
+    "type":"articles",
+    "title":"RANDOM WALK",
+    "content": "How to code your own procedural dungeon map generator using the Random Walk Algorithm",
+    "link":"https://medium.freecodecamp.org/how-to-make-your-own-procedural-dungeon-map-generator-using-the-random-walk-algorithm-e0085c8aa9a",
+    "linkContent": "medium",
   },
   {
-    "type":"research",
-    "title":"Design and Testing of On-body and Implantable Antennas Antennas",
-    "content": "",
-    "image":"4.svg"
+    "type":"articles",
+    "title":"MINIMAX",
+    "content": "How to make your Tic Tac Toe game unbeatable by using the minimax algorithm.",
+    "link":"https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37",
+    "linkContent": "medium"
   },
   {
-    "type":"publications",
-    "title":"",
-    "content": "J1. Tuba Yilmaz, Nazmul Hasan, Regan Zane, Zeljko Pantic, “Multi-Objective Optimization of Circular Magnetic Couplers for Wireless Power Transfer Applications,” IEEE Transactions on Magnetics, vol. 53, no. 8, pp 1-12, Aug. 2017."
-  },
-  {
-    "type":"publications",
-    "title":"",
-    "content": "J2. Tuba Yilmaz, Mahmut Alp Kilic, Melike Erdogan, Mehmet Cayoren et al. “Machine Learning Aided Diagnosis of Hepatic Malignancies Through In-vivo Dielectric Measurements with Microwaves,” Physics in Medicine and Biology, vol. 61, no. 13, pp. 5089 - 5102, July 2016."
-  },
-  {
-    "type":"publications",
-    "title":"",
-    "content": "J3. Tuba Yilmaz, Robert Foster, Yang Hao, “Towards Accurate Dielectric Property Retrieval of Biological Tissues for Blood Glucose Monitoring,” IEEE Transactions on Microwave Theory and Techniques, vol.62, no.12, pp.3193- 3204, Dec. 2014."
-  },
-  {
-    "type":"publications",
-    "title":"",
-    "content": "J4. Tuba Yilmaz, Robert Foster, Yang Hao, “Broadband Tissue Mimicking Phantoms and a Patch Resonator for Evaluating Noninvasive Monitoring of Blood Glucose Levels,” IEEE Transactions on Antennas and Propagation, vol.62, no.6, pp.3064-3075, June 2014."
-  },
-  {
-    "type":"publications",
-    "title":"",
-    "content": "J5. Tuba Yilmaz, Robert Foster, Yang Hao, “Detecting Vital Signs with Wearable Wireless Sensors,” Sensors 2010, no. 12, pp. 10837-10862, 2010."
-  },
-  {
-    "type":"publications",
+    "type":"pens",
+    "title":"TIC TAC TOE",
+    "content": "A Tac Toe game with a full minimax implementation",
     "link":"https://scholar.google.com/citations?user=U2nbt_IAAAAJ",
-    "linkContent": "more on google scholar"
+    "linkContent":"codepen",
   },
   {
-    "type":"awards",
-    "title":"URSI Young Scientist Award, 2017.",
-    "content": ""
+    "type":"pens",
+    "title":"SIMON GAME",
+    "content": "Simon game with complete logic",
+    "link":"https://scholar.google.com/citations?user=U2nbt_IAAAAJ",
+    "linkContent": "live",
+    "link2":"https://scholar.google.com/citations?user=U2nbt_IAAAAJ",
+    "linkContent2": "code"
   },
   {
-    "type":"awards",
-    "title":"Marie Curie Individual Fellowship – Reintegration Grant, 2016.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"IET Today’s RF Tomorrow’s Medicine Workshop 2nd runner up prize, 2016.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"QMUL Postgraduate Fund Travel Grant, June, 2012.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"QMUL Research Open Day Best Antenna Poster Award, April, 2012.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"IBM Best Poster Award at London Hopper Colloquium, April, 2011.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"National Science Foundation Travel grant January 2008 and January 2009.",
-    "content": ""
-  },
-  {
-    "type":"awards",
-    "title":"Dean’s honor list, Istanbul Technical University.",
-    "content": ""
-  },
-  {
-    "type":"media",
-    "link":"https://www.ituvakif.org.tr/dergi/sayi_76.pdf",
-    "content": "Elektronik ve Haberleşme Mühendisliği Bölümü’nden Yrd. Doç. Dr. Tuba Yılmaz Abdolsaheb’in “Açık Uçlu Sondaj Yöntemiyle Meme Kanserinin Mikrodalgalarla Teşhisi (Microwave Diagnosis of Breast Cancer with Open Ended Contact Probe - MIDxPRO) adlı projesi de Avrupa Birliği Horizon 2020 Marie Sklodowska Curie Bireysel Araştırma Bursları (Individual Fellowships - IF) 2016 çağrısı dâhilinde destek alacak.",
-    "linkContent": "link"
-  },
-  {
-    "type":"media",
-    "link":"http://www.itu.edu.tr/haberler/2017/02/22/uc-projemiz-marie-sklodowska-curie-bireysel-arastirma-burslari-2016-destegi-alacak",
-    "content": "Üniversitemizden üç araştırmacı, Horizon 2020 Programı Marie Sklodowska Curie Bireysel Araştırma Bursları 2016 çağrısı kapsamında desteğe değer görüldü.",
-    "linkContent": "link"
+    "type":"pens",
+    "title":"SURFACE TEMPEPRATURE DATA VISUALIZATION",
+    "content": "Global land surface temperature 1753-2015 heatmap using D3",
+    "link":"Global land Surface Temperature 1753-2015",
+    "linkContent": "codepen",
   }
 ]
