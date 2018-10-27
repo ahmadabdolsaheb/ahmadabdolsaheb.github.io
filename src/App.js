@@ -45,7 +45,7 @@ class App extends Component {
                 I am a senior market analyst turned fullstack Javascript developer. I love building react and react native applications that improve people's lives.
               </p>
               <div className="buttons-image">
-                <a href="CV.pdf" className="btn btn-primary border" target="_blank" download="CV">Resume</a>
+                <a href="Resume.pdf" className="btn btn-primary border" target="_blank" download="Resume">Resume</a>
                 <a href="mailto:ahmad.abdolsaheb@gmail.com" className="btn btn-primary border">Email</a>
               </div>
             </div>
